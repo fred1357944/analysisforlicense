@@ -1,2 +1,1 @@
-# sfic2025
-
+# SGS license
